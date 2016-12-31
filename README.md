@@ -1,7 +1,7 @@
-astralfoxy/fluorinefx-core (deprecated)
+fluorinefx-core (deprecated)
 ============================
 
-**This library has been deprecated in favour of [https://github.com/astralfoxy/rtmp-sharp](https://github.com/astralfoxy/rtmp-sharp).**
+**This library has been deprecated in favour of [rtmp-sharp](https://github.com/imiuka/rtmp-sharp).**
 
 > FluorineFx is the free and open source Flash/Flex remoting gateway, high-performance, scalable framework, streaming server that connects RIAs using Adobe software (Adobe Flash®, Adobe Flex®, Adobe AIR™ runtime) and Microsoft .NET®
 >
